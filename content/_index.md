@@ -15,6 +15,6 @@ Continuer ainsi en enchaînant les questions et les réponses.
 
 Enchaîner différentes séquences de danse (improvisée).
 
-![Improvisation: question - réponse](https://parkour-biel-bienne.netlify.app/img/6.jpg)
+[![TeKiKua](https://parkour-biel-bienne.netlify.app/img/tekikua.jpg)](https://www.bonjour-tekitekua.ch/)
 
 

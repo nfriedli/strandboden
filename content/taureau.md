@@ -1,11 +1,11 @@
 +++
-title = "Stier (Taureau)"
+title = "Jura"
 +++
 
-![Stier Aeschbacher Hans](https://art-a-bienne.ch/core/cache/thumbs/werke_P0002_w=580.jpeg)
+![Jura Berger Ueli](https://art-a-bienne.ch/core/cache/thumbs/werke_P0170_w=580.jpeg)
 
-1947 (140 x 230 x 73 cm)  
-Aeschbacher Hans  
-(* 1906, † 1980)
+1979-80 (115 x 350 x 2500 cm)  
+Berger Ueli  
+(* 1937, † 2008)
 
-Hans Aeschbacher se consacre à la sculpture, ce qui se reflète tant dans ses dessins que dans sa peinture. On voit dans son œuvre un développement, conséquent pour l’époque, qui part du figuratif pour aboutir à l’abstraction.
+Ulrich Christian «Ueli» Berger (*7 mai 1937 à Berne; †8 novembre 2008 ibidem) est un artiste, designer de produits, architecte d'intérieur et professeur d'université suisse. Il était marié à Susi Berger; ensemble, le couple d'artistes et de designers était connu sous le nom de Susi et Ueli Berger.

@@ -397,3 +397,11 @@ table {
 td, th {
   padding: .5rem;
 }
+
+.tabs-selector {
+  overflow: auto;
+}
+
+.tabs-selector .tabs-item.active::after {
+    height: 0;
+}
