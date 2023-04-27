@@ -401,7 +401,3 @@ td, th {
 .tabs-selector {
   overflow: auto;
 }
-
-.tabs-selector .tabs-item.active::after {
-    height: 0;
-}
