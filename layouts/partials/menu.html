@@ -1,12 +1,12 @@
 <div class="tabs-selector">
     
         
-        
+        {{ $current := .Page }}
         {{ with .Parent}}
         <ul class="tabs">
 
             {{ range .Pages }}
-            <li class="tabs-item">
+            <li class="tabs-item {{ if eq $current .Page }} active {{ end }}">
                 <a href="{{ .RelPermalink }}">
                     <div class="tabs-item-text">
                         <i class="fa-solid fa-volleyball"></i>
