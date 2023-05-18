@@ -1,0 +1,17 @@
+<section class="language-selector">
+    <nav class="main">
+        <ul class="lang">
+            {{ $lang := .Language}}
+            {{ if .Translations }}
+            {{ range .AllTranslations }}
+            
+            <li class="lang-item {{ if eq $lang .Language }}active{{ end }}">
+                <a href="{{ .RelPermalink }}" title="{{ .Language.LanguageName }}" hreflang="{{ .Language.Lang }}">
+                    <div class="lang-item-text">{{ .Language.Lang }}</div>
+                </a>
+            </li>
+            {{ end }}
+            {{ end }}
+        </ul>
+    </nav>
+</section>

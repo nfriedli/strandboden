@@ -1,9 +1,36 @@
 baseURL = "https://standboden.netlify.app"
-languageCode = "fr"
 title = "Prés-de-la-Rive"
+
+languageCode = "fr"
+defaultContentLanguage = "fr"
+defaultContentLanguageInSubdir = true
+
+cleanDestinationDir = true
+disableFastRender = true
+removePathAccents = true
+
+disableKinds = [ "taxonomy", "term", "robotsTXT", "RSS", "404"]
 
 [markup.goldmark.renderer]
 unsafe = true
 
 [minify]
 minifyOutput = true
+
+# Configuration du français 
+[languages.fr]
+contentDir = "content/fr"
+languageName = "Français"
+weight = 10
+
+title = "Informations sur Bienne"
+footer = "Un projet de la Ville de Bienne"
+
+# Configuration de l'allemand
+[languages.de]
+contentDir = "content/de"
+languageName = "Deutsch"
+weight = 20
+
+title = "Mehr über die Stadt Biel"
+footer = "Ein Projekt der Stadt Biel"

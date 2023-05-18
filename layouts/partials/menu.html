@@ -1,0 +1,20 @@
+<div class="tabs-selector">
+    
+        
+        
+        {{ with .Parent}}
+        <ul class="tabs">
+
+            {{ range .Pages }}
+            <li class="tabs-item">
+                <a href="{{ .RelPermalink }}">
+                    <div class="tabs-item-text">
+                        <i class="fa-solid fa-volleyball"></i>
+                        {{ .Title }}
+                    </div>
+                </a>
+            </li>
+            {{ end }}
+        </ul>
+        {{ end}}
+</div>
