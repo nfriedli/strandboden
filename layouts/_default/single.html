@@ -2,7 +2,13 @@
       {{ .Content }}
 {{ end }}
 
+{{/* Titre plus complet */}}
+{{ define "title" }}
+{{ with .Parent }}{{ .Title }} - {{ end }}{{ .Title }}
+{{ end }}
+
 {{/* Menu tabs seulement sur les pages (pas les sections) */}}
 {{ define "menu" }}
 {{ partial "menu" . }}
 {{ end }}
+
