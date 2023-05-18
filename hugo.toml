@@ -9,7 +9,7 @@ cleanDestinationDir = true
 disableFastRender = true
 removePathAccents = true
 
-disableKinds = [ "taxonomy", "term", "robotsTXT", "RSS", "404"]
+disableKinds = [ "taxonomy", "term", "robotsTXT", "RSS", "sitemap", "404"]
 
 [markup.goldmark.renderer]
 unsafe = true
