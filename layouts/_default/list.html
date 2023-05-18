@@ -1,6 +1,7 @@
 {{ define "main" }}
-      {{ .Content }}
-      
+
+      {{ site.Params.annonce | .RenderString }}
+
       {{/* Sous-pages seulement sur les listes (jamais référencées) */}}
 
       <ul>

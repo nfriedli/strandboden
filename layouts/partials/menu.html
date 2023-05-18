@@ -9,7 +9,7 @@
             <li class="tabs-item {{ if eq $current .Page }} active {{ end }}">
                 <a href="{{ .RelPermalink }}">
                     <div class="tabs-item-text">
-                        <i class="fa-solid fa-volleyball"></i>
+                        {{ with .Params.logo }}{{ printf "<i class=\"fa-solid fa-%s\"></i>" . | safeHTML}}{{ end }}
                         {{ .Title }}
                     </div>
                 </a>

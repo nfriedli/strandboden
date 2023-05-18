@@ -401,3 +401,11 @@ td, th {
 .tabs-selector {
   overflow: auto;
 }
+
+.tabs-selector .tabs-item {
+  text-transform: none;
+}
+
+a {
+  color: inherit;
+}
