@@ -1,4 +1,4 @@
 +++
-title = "Deutsch"
-weight = 20
+title = "Français"
+weight = 10
 +++
