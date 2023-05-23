@@ -27,7 +27,7 @@ languageName = "Français"
 weight = 10
 
 title = "Spot in Bienne"
-footer = "Un projet de la [Ville de Bienne](https://www.biel-bienne.ch/) et [SPORTIWORLD](https://www.sportiworld.com/)."
+footer = "Un projet de la [Ville de Bienne](https://www.biel-bienne.ch/) et [SPORTIWorld](https://www.sportiworld.com/)."
 annonce = """Cette page est présente pour des raisons techniques.
 
 Merci de continuer la navigation jusqu'à trouver une page sans cette mention."""
@@ -39,7 +39,7 @@ languageName = "Deutsch"
 weight = 20
 
 title = "Spot in Biel"
-footer = "Ein Projekt der [Stadt Biel](https://www.biel-bienne.ch/) und [SPORTIWORLD](https://www.sportiworld.com/)-"
+footer = "Ein Projekt der [Stadt Biel](https://www.biel-bienne.ch/) und [SPORTIWorld](https://www.sportiworld.com/)-"
 annonce ="""Diese Seite ist aus technischen Gründen vorhanden.
 
 Bitte setzen Sie die Navigation fort, bis Sie eine Seite ohne diesen Hinweis finden."""
