@@ -27,7 +27,11 @@ languageName = "Français"
 weight = 10
 
 title = "Spot in Bienne"
+slogan = "Spot in Bienne - Explorez ce lieu"
 footer = "Un projet de la [Ville de Bienne](https://www.biel-bienne.ch/) et [SPORTIWorld](https://www.sportiworld.com/)."
+pub = """
+Le compte officiel [Spot in® Tik Tok](https://www.tiktok.com/@spot_in) favorise la promotion de l’activité physique en partageant des exercices et des moments d’activité physique. Nous pouvons tous contribuer avec le hashtag #spot_in."""
+
 annonce = """Cette page est présente pour des raisons techniques.
 
 Merci de continuer la navigation jusqu'à trouver une page sans cette mention."""
@@ -39,7 +43,12 @@ languageName = "Deutsch"
 weight = 20
 
 title = "Spot in Biel"
-footer = "Ein Projekt der [Stadt Biel](https://www.biel-bienne.ch/) und [SPORTIWorld](https://www.sportiworld.com/)-"
+slogan = "Spot in Biel - Erkunden Sie diesen Ort"
+footer = "Ein Projekt der [Stadt Biel](https://www.biel-bienne.ch/) und [SPORTIWorld](https://www.sportiworld.com/)."
+
+pub = """
+Das offizielle [Spot in® Tik Tok](https://www.tiktok.com/@spot_in)-Konto fördert die körperliche Aktivität, indem es Übungen und Momente der körperlichen Aktivität teilt. Wir alle können mit dem Hashtag #spot_in dazu beitragen."""
+
 annonce ="""Diese Seite ist aus technischen Gründen vorhanden.
 
 Bitte setzen Sie die Navigation fort, bis Sie eine Seite ohne diesen Hinweis finden."""

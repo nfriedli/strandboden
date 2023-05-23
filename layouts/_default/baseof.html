@@ -38,6 +38,7 @@
         <article>
             <header>
                 <h1>{{ block "title" .}}{{ .Title }} {{ end }}</h1>
+                {{ site.Params.slogan | .RenderString }}
             </header>
 
             {{ block "menu". }}{{ end }}
