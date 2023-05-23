@@ -407,3 +407,8 @@ td, th {
 a {
   color: inherit;
 }
+
+iframe {
+  margin: auto;
+  display: flex;
+}
