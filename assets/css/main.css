@@ -412,3 +412,10 @@ iframe {
   margin: auto;
   display: flex;
 }
+
+.pub {
+  background-color: #EEE;
+  border: 1px solid #ccc;
+  padding: .5rem;
+  margin: .5rem 0;
+}

@@ -11,6 +11,9 @@ removePathAccents = true
 
 disableKinds = [ "taxonomy", "term", "robotsTXT", "RSS", "sitemap", "404"]
 
+[markup.goldmark.parser.attribute]
+block = true
+
 [markup.goldmark.renderer]
 unsafe = true
 
