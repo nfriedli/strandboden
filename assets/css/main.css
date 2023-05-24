@@ -419,3 +419,8 @@ iframe {
   padding: .5rem;
   margin: .5rem 0;
 }
+
+.copyright {
+  font-size: 80%;
+  margin-bottom: 2rem;
+}
