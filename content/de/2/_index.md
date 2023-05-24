@@ -1,3 +1,3 @@
 +++
-title = "Stahlkonstruktion XVIII"
+title = "Équilibre - Stahlkonstruktion XVIII"
 +++
