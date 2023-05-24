@@ -29,8 +29,7 @@ weight = 10
 title = "Spot in Bienne"
 slogan = "Spot in Bienne - Explorez ce lieu"
 footer = "Un projet de la [Ville de Bienne](https://www.biel-bienne.ch/) et [SPORTIWorld](https://www.sportiworld.com/)."
-pub = """
-Le compte officiel [Spot in® Tik Tok](https://www.tiktok.com/@spot_in) favorise la promotion de l’activité physique en partageant des exercices et des moments d’activité physique. Nous pouvons tous contribuer avec le hashtag #spot_in."""
+pub = "A vous de jouer! Partagez vos exercices et moments d'activités physiques ici en identifiant le compte [@spot_in](https://www.tiktok.com/@spot_in)!"
 
 annonce = """Cette page est présente pour des raisons techniques.
 
@@ -45,9 +44,7 @@ weight = 20
 title = "Spot in Biel"
 slogan = "Spot in Biel - Erkunden Sie diesen Ort"
 footer = "Ein Projekt der [Stadt Biel](https://www.biel-bienne.ch/) und [SPORTIWorld](https://www.sportiworld.com/)."
-
-pub = """
-Das offizielle [Spot in® Tik Tok](https://www.tiktok.com/@spot_in)-Konto fördert die körperliche Aktivität, indem es Übungen und Momente der körperlichen Aktivität teilt. Wir alle können mit dem Hashtag #spot_in dazu beitragen."""
+pub = "Teilt Eure Übungen und Bewegungsmomente ici, indem Ihr das Profil markiert [@spot_in](https://www.tiktok.com/@spot_in)!"
 
 annonce ="""Diese Seite ist aus technischen Gründen vorhanden.
 
