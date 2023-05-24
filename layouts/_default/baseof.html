@@ -18,9 +18,19 @@
     <meta name="robots" content="noindex">
     {{ if .IsTranslated }}
     {{ range .AllTranslations }}
-    <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}" />
-    {{ end}}
-{{ end }}
+        <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}" />
+        {{ end}}
+    {{ end }}
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-0HBN1JMD4P"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-0HBN1JMD4P');
+    </script>
 </head>
 
 <body>
